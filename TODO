@@ -1,0 +1,11 @@
+TODO:
+  * Simplify the text library, reimplement with extra features.
+  * trig-based eye movement
+  * text input
+  * dictionary
+  * dialogue
+  * sounds
+
+CONCEPT:
+  * Drop the face stuff, go for a 512x512 enviroment and make Byte a full body actor, capable of movement
+  * CGA palette
